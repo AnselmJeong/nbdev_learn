@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_learn"
+  site-url: "https://AnselmJeong.github.io/nbdev_learn"
+  description: "Learn nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/AnselmJeong/nbdev_learn"
